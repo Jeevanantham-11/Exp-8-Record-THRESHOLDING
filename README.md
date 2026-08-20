@@ -1,4 +1,4 @@
-# Image Segmentation Using Thresholding Techniques in OpenCV
+# EXPERIMENT - 8 - Image Segmentation Using Thresholding Techniques in OpenCV
 ### Aim
 To segment an image using Global Thresholding, Adaptive Thresholding, and Otsu's Thresholding techniques using Python and OpenCV.
 
